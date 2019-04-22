@@ -3,7 +3,7 @@
 		<div class="index-nav">
 			<header>
 				<router-link to="/data-list/search" class="search fr">
-					<img src="../../../img/icon_search_2.png">
+					<img src="img/icon_search_2.png">
 				</router-link>
 			</header>
 			<div class="swiper-container nav-swiper">
