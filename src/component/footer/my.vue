@@ -89,11 +89,7 @@
 
 <style>
 .my header{
-<<<<<<< HEAD
 	background: url(../../assets/u_bg.png) no-repeat;
-=======
-	background: url(../../../img/u_bg.png) no-repeat;
->>>>>>> 971711b2da09991a7da8a3c86e9a2fa587a03232
 	background-size: 100% auto;
 }
 .my header .top{
@@ -168,11 +164,7 @@
     height: 45px;
 	float: right;
 	display: inline-block;
-<<<<<<< HEAD
 	background: url(../../assets/right2.png) no-repeat 100%;
-=======
-	background: url(../../../img/right2.png) no-repeat 100%;
->>>>>>> 971711b2da09991a7da8a3c86e9a2fa587a03232
 	background-size: 70%;
 }
 .my .indent .bottom{

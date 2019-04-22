@@ -108,7 +108,7 @@ export default{
 	z-index: 888;
 	line-height: 45px;
 	background-color: #fff;
-	background-image: url(../../assetsimg/icon_logo.png);
+	background-image: url(../../assets/icon_logo.png);
 	background-repeat: no-repeat;
 	background-size: 15%;
 	background-position: 50%;
@@ -218,7 +218,7 @@ export default{
     line-height: 2.5rem;
     color: #ff4f39;
     border-radius: 30px;
-    background: url(../../assetsimg/下载.png) no-repeat;
+    background: url(../../assets/下载.png) no-repeat;
     background-size: 90% 90%;
 }
 </style>
