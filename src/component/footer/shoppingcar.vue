@@ -9,7 +9,7 @@
 				<span><img src="../../../img/清空.png" alt=""></span>
 			</div>
 		</header>
-		<div class="no-login">
+		<div class="no-login" v-if="!flag">
 			<img src="../../../img/ic_no_login.1938a8b.png" alt="">
 			<p>还没有登录</p>
 			<p>还等什么，快去注册登录吧~</p>
@@ -32,13 +32,13 @@ export default{
 		
 	},
 	mounted(){
-		this.flag=false
+				this.flag=false
 	}
 }
 </script>
 
 <style>
-header{
+.shoppingcar header{
 	border-bottom: 1px solid #ccc;
     width: 100%;
     height: 50px;
@@ -52,7 +52,7 @@ header{
     font-size: 1.4rem;
     text-align: center;
 }
-.empty{
+.shoppingcar .empty{
 	position: absolute;
     right: 0;
     top: 0;
