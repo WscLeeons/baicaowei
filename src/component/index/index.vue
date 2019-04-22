@@ -3,7 +3,7 @@
 		<div class="index-nav">
 			<header>
 				<router-link to="/data-list/search" class="search fr">
-					<img src="../../../img/icon_search_2.png">
+					<img src="img/icon_search_2.png">
 				</router-link>
 			</header>
 			<div class="swiper-container nav-swiper">
@@ -108,7 +108,7 @@ export default{
 	z-index: 888;
 	line-height: 45px;
 	background-color: #fff;
-	background-image: url(../../../img/icon_logo.png);
+	background-image: url(../../assetsimg/icon_logo.png);
 	background-repeat: no-repeat;
 	background-size: 15%;
 	background-position: 50%;
@@ -218,7 +218,7 @@ export default{
     line-height: 2.5rem;
     color: #ff4f39;
     border-radius: 30px;
-    background: url(../../../img/下载.png) no-repeat;
+    background: url(../../assetsimg/下载.png) no-repeat;
     background-size: 90% 90%;
 }
 </style>

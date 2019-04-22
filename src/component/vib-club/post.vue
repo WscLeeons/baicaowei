@@ -81,11 +81,11 @@ export default{
     margin-left: 8px;
 }
 .comments{
-	background: url(../../../img/eat_ping.png) no-repeat 0;
+	background: url(../../assets/eat_ping.png) no-repeat 0;
     background-size: 2rem auto;
 }
 .likes{
-	background: url(../../../img/eat_like.png) no-repeat 0;
+	background: url(../../assets/eat_like.png) no-repeat 0;
 	background-size: 2rem auto;
 }
 </style>

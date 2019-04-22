@@ -69,7 +69,7 @@ i{
     line-height: 34px;
     padding-left: 30px;
     font-size: 1.2rem;
-	background: url(../../../img/icon_search_3.png) no-repeat 5px;
+	background: url(../../assets/icon_search_3.png) no-repeat 5px;
     background-size: 20px;
 }
 .sort ul{

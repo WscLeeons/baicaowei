@@ -89,7 +89,7 @@
 
 <style>
 .my header{
-	background: url(img/u_bg.png) no-repeat;
+	background: url(../../assets/u_bg.png) no-repeat;
 	background-size: 100% auto;
 }
 .my header .top{
@@ -164,7 +164,7 @@
     height: 45px;
 	float: right;
 	display: inline-block;
-	background: url(img/right2.png) no-repeat 100%;
+	background: url(../../assets/right2.png) no-repeat 100%;
 	background-size: 70%;
 }
 .my .indent .bottom{

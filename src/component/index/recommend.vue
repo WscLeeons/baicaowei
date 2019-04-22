@@ -25,7 +25,7 @@
 		</div>
 		<div class="newcomer" v-if="!flag">
 			<router-link to="/activity/newcomer">
-				<img src="../../../img/4c01e763bd11c66dec5cecbd7f987ceb.jpg">
+				<img src="img/4c01e763bd11c66dec5cecbd7f987ceb.jpg">
 			</router-link>
 		</div>
 		<div class="module-title" v-if="!flag">
