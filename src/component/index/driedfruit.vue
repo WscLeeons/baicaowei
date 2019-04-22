@@ -43,7 +43,6 @@ export default{
 		}
 	},
 	mounted(){
-		setTimeout(()=>{
 			var _this=this
 			this.$http.get('./data/index.json')
 			  .then(function (response) {
@@ -72,7 +71,6 @@ export default{
 			  .then(function () {
 			    // always executed
 			  });  
-		},500)
 	}
 }
 </script>

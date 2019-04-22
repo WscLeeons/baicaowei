@@ -78,6 +78,81 @@
 				{"imgPath":"./img/5816badbc6b0d9403.jpg","title":"好剥才能吃得爽","subtitle":"手剥小白杏200g/袋","price":"17.9 ","delPrice":"¥15.90"},
 				{"imgPath":"./img/581077bb7d5c04541.jpg","title":"松脆大果仁 仁见人爱","subtitle":"巴旦木仁190g/袋","price":"19.9 ","delPrice":"¥45.90"}
 			]
+		},
+		"meat":{
+			"bannerArr":[
+				{"imgPath":"./img/871306fabb5271eef3343eb33dc1173f.jpg"}
+			],
+			"productArr":[
+				{"imgPath":"./img/b265379dda10af95b047ab539e423421.jpg","title":"手撕鱿鱼 犹如手撕大海","subtitle":"【2袋装】手撕鱿鱼条80g/袋","price":"21.8 ","delPrice":"¥41.60"},
+				{"imgPath":"./img/7482308c75f8465b78af697034f39847.jpg","title":"外酥里嫩 鲜香不腻","subtitle":"香酥小黄鱼200g/袋","price":"16.9 ","delPrice":"¥33.90"},
+				{"imgPath":"./img/29bb939f6cfd62aa7b7ff019c5621465.jpg","title":"入口微甜 入骨香辣","subtitle":"甜辣鸭脖170g/袋","price":"17.9 ","delPrice":"¥19.80"},
+				{"imgPath":"./img/2615b9488fe94de9cc41e97004a46e93.jpg","title":"烟熏入味，口齿留香","subtitle":"猪肉枣180g/袋 烟熏味小香肠","price":"17.9 ","delPrice":"¥39.80"},
+				{"imgPath":"./img/e961ca4524cf723ba53d627f7f0ce7b1.jpg","title":"层层入味，筋筋乐道","subtitle":"【2袋装】烧烤味牛板筋125g","price":"25.9 ","delPrice":"¥49.90"},
+				{"imgPath":"./img/793b4f6e6da9eeda60ac2dc182b1afd5.jpg","title":"层层入味，筋筋乐道","subtitle":"【2袋装】麻辣味牛板筋125g/袋","price":"22.9 ","delPrice":"¥49.90"},
+				{"imgPath":"./img/580974116ba2c2857.jpg","title":"肉质香滑 Q弹美味","subtitle":"五香味鸭舌100g/袋","price":"31.9 ","delPrice":"¥53.80"},
+				{"imgPath":"./img/01ef024cdaad4bff53e016dc88465ebe.jpg","title":"肉汁醇厚，越嚼越香","subtitle":"蜜汁金钱肉120g/袋","price":"16.9 ","delPrice":"¥39.90"},
+				{"imgPath":"./img/9450be258472e9e38516c5f06b4ce373.jpg","title":"手撕鱿鱼 犹如手撕大海","subtitle":"【2袋装】风琴手撕鱿鱼片80g/袋","price":"21.8 ","delPrice":"¥31.84"},
+				{"imgPath":"./img/c6682d39299fefc3de469ea0b0a1e2ee.jpg","title":"原滋原味 劲道十足","subtitle":"原味风干牛肉116g/袋","price":"29.9 ","delPrice":"¥65.80"},
+				{"imgPath":"./img/ae867141b989065134721c198c2d4e2d.jpg","title":"层层入味，筋筋乐道","subtitle":"烧烤味牛板筋125g","price":"13.9 ","delPrice":"¥27.90"},
+				{"imgPath":"./img/82922dd722c52e1161546cd0669a1811.jpg","title":"无肉不欢，无辣不爽","subtitle":"香辣猪肉条100g/袋","price":"11.9 ","delPrice":"¥25.80"},
+				{"imgPath":"./img/fd35288a850e5c81aad8170fc25771a4.jpg","title":"海之鲜香 绵柔细腻","subtitle":"蜜汁鳕鱼80g/袋","price":"24.9 ","delPrice":"¥45.80"},
+				{"imgPath":"./img/a5f25293ef79df3ac0c1cfa76809d4f6.jpg","title":"一块较真的好肉脯","subtitle":"精制猪肉脯（长方片）200g/袋","price":"19.9 ","delPrice":"¥39.80"}
+			]
+		},
+		"giftBox":{
+			"bannerArr":[
+				{"imgPath":"./img/dd970ac49d9cf48d8b175f85b99cb286.jpg"}
+			],
+			"productArr":[
+				{"imgPath":"./img/6541ab8449fe02ec9ebbb9baefedfd01.jpg","title":"缤纷色彩 鲜果滋味","subtitle":"果干精选礼盒款948g","price":"78 ","delPrice":"¥199"},
+				{"imgPath":"./img/cac36de5f7bd90800156f1c7bf129045.jpg","title":"宠物精灵与零食的碰撞","subtitle":"零食大礼包30包皮卡丘礼盒装","price":"168 ","delPrice":"¥378"},
+				{"imgPath":"./img/0d786173e178aef8f1642667170e1e5e.jpg","title":"享美味 赠亲友 增年味","subtitle":"【礼盒】五福名卤1280g","price":"99 ","delPrice":"¥216"},
+				{"imgPath":"./img/8418b14652eb7cbc2a7fdaa9f918145e.jpg","title":"潮流送礼 一定要有营养","subtitle":"【礼盒】蔬果干大礼包658g","price":"69 ","delPrice":"¥138"},
+				{"imgPath":"./img/195136a943c6c95f8ff8cc6ec1701b6c.jpg","title":"14袋坚果礼 体面之选","subtitle":"【礼盒】坚果大礼包2168g/14袋-富贵开款","price":"208 ","delPrice":"¥398"},
+				{"imgPath":"./img/c2236b2d6d2810548b9e174d3e12c10e.jpg","title":"10份果干 10分诚意","subtitle":"水果干礼盒 1156g/盒","price":"88 ","delPrice":"¥168"},
+				{"imgPath":"./img/dffb2fa6e353b63f4f1fd48549873ce2.jpg","title":"4种水果干 都是你爱的","subtitle":"【礼盒】缤纷水果干礼盒 420g","price":"44 ","delPrice":"¥98"},
+				{"imgPath":"./img/c2c6bef6117c88046fc9b29bb87b2ca4.jpg","title":"运动待餐 塑造迷人线条","subtitle":"【包邮】【礼盒】仁仁果活力款525g/盒","price":"98 ","delPrice":"¥228"},
+				{"imgPath":"./img/9de459c4babab23e846717c9c8f49382.jpg","title":"10种卤味一次尝遍","subtitle":"【礼盒】卤味大礼包 507g","price":"44.9 ","delPrice":"¥99.80"},
+				{"imgPath":"./img/61177d50367a4fbc97f424e3a96dcb78.jpg","title":"治愈系坚果零食","subtitle":"【2盒装】抱抱果- 红枣夹核桃仁 260g/盒","price":"44.9 ","delPrice":"¥119.80"}
+			]
+		},
+		"candies":{
+			"bannerArr":[
+				{"imgPath":"./img/f675b399c1c2639dc0e8bbd03271a0e4.jpg"}
+			],
+			"productArr":[
+				{"imgPath":"./img/57f745f46e9933481.jpg","title":"浓浓抹茶味 Q弹糯米感","subtitle":"抹茶味麻薯210g/袋","price":"12.9 ","delPrice":"¥14.90"},
+				{"imgPath":"./img/7c33eabb3476cfa37ce78997bf86c92b.jpg","title":"3种口味宠你在芯","subtitle":"【3袋组合】夹心爆浆麻薯组合（3种口味）630g","price":"29 ","delPrice":"¥77.40"},
+				{"imgPath":"./img/4e17bfa5355c9e9033286081c7df9e3c.jpg","title":"Q萌小身材 嗲糯又酥脆","subtitle":"【2袋装】椰丝球210g/袋","price":"24.9 ","delPrice":"¥59.80"},
+				{"imgPath":"./img/003e4ab44414b3922319d2a01e7ca443.jpg","title":"一整颗蛋黄心棒给你","subtitle":"台式蛋黄酥120g/盒","price":"14.9 ","delPrice":"¥29.90"},
+				{"imgPath":"./img/57f72e9834d963324.jpg","title":"经典红豆馅  软糯甜蜜蜜","subtitle":"黄金椰丝麻薯210g/袋","price":"11.9 ","delPrice":"¥22.80"},
+				{"imgPath":"./img/846562141d11134ac8ee3801ea859692.jpg","title":"宠萌一小颗 酥脆一小口","subtitle":"【2袋装】山核桃仁小酥210g/袋","price":"18.9 ","delPrice":"¥39.80"},
+				{"imgPath":"./img/f7afc3432e97aaea3eaebb231dac816b.jpg","title":"酥松外皮 香甜内馅","subtitle":"凤梨酥300g/盒","price":"15.9 ","delPrice":"¥32.80"},
+				{"imgPath":"./img/29cb6994c6f3e91c33a1af80b32c5387.jpg","title":"活力芒果馅 软糯Q弹感","subtitle":"香芒蜜语麻薯210g/袋","price":"11.9 ","delPrice":"¥22.80"},
+				{"imgPath":"./img/45fa27ed0b5672ae4f57a1c2ccbda6aa.jpg","title":"只此一口 榴莲忘返","subtitle":"榴莲饼300g/盒","price":"14.9 ","delPrice":"¥39.90"},
+				{"imgPath":"./img/45fa27ed0b5672ae4f57a1c2ccbda6aa.jpg","title":"榴莲控的必备糕点零食","subtitle":"【2盒装】榴莲饼300g/盒","price":"35.9 ","delPrice":"¥76.90"},
+				{"imgPath":"./img/57f717f21d7f44803.jpg","title":"满口酥香 经典童年味","subtitle":"【2袋装】花生牛轧糖180g/袋","price":"28.9 ","delPrice":"¥58.80"},
+				{"imgPath":"./img/57f736cdbdf7e5063.jpg","title":"淡淡茶香 甜蜜相拥","subtitle":"【2袋装】抹茶味牛轧糖180g/袋","price":"28.9 ","delPrice":"¥58.80"},
+				{"imgPath":"./img/fe06e404552e8ca4a7b9ec4007fde8a5.jpg","title":"一口一个 芝心小满足","subtitle":"芝士味小小面包 200g/盒","price":"12.9 ","delPrice":"¥22.80"},
+				{"imgPath":"./img/e8816dab77bd3d774c2e50746d3a4b8c.jpg","title":"一口一个 消灭小饥饿","subtitle":"【2盒装】芝士味小小面包 200g/盒","price":"19.9 ","delPrice":"¥39.80"},
+				{"imgPath":"./img/ae2f62a6da41e134ea58e2c3e257a3b4.jpg","title":"层层奶香 松软美味","subtitle":"原味手撕面包1kg/整箱","price":"24.9 ","delPrice":"¥59.80"},
+				{"imgPath":"./img/2bf75ee8c75e3b872352e03a768979c0.jpg","title":"绵软吐司 温润细腻","subtitle":"奶酪味夹心吐司面包850g","price":"32.9 ","delPrice":"¥62.80"}
+			]
+		},
+		"driedBean":{
+			"bannerArr":[
+				{"imgPath":"./img/e84cb6eb8eff848c220abf200dd1d4df.jpg"}
+			],
+			"productArr":[
+				{"imgPath":"./img/e175bde0ba4076dc3b23bd9b45097430.jpg","title":"Q弹爽滑 卤香醇厚","subtitle":"五香味一字豆干200g","price":"5.9 ","delPrice":"¥15.80"},
+				{"imgPath":"./img/2c99f1b30a4a1928290b675caaf8e67d.jpg","title":"甜中带辣 Q弹软嫩","subtitle":"【2袋装】甜辣薄豆干200g/袋","price":"24.8 ","delPrice":"¥47.60"},
+				{"imgPath":"./img/f1bee45bbf7dec1b303e319472d9d006.jpg","title":"爽口脆笋 鲜嫩好味道","subtitle":"泡椒脆笋200g/袋","price":"9.9 ","delPrice":"¥19.90"},
+				{"imgPath":"./img/1168d9c4d84a33f0145f5bdd18485fd3.jpg","title":"爽口脆笋 鲜嫩好味道","subtitle":"【2袋装】泡椒脆笋200g/袋","price":"17.9 ","delPrice":"¥39.90"},
+				{"imgPath":"./img/3ba5f603b171e0bdff1b2eb7a22b5462.jpg","title":"嫩滑Q弹 经典卤制","subtitle":"卤香味鸡蛋干200g/袋","price":"12.9 ","delPrice":"¥12.90"},
+				{"imgPath":"./img/57f71002b74628039.jpg","title":"甜中带辣 Q弹软嫩","subtitle":"甜辣薄豆干200g/袋","price":"12.9 ","delPrice":"¥23.80"},
+				{"imgPath":"./img/bd096bdc9d8e20617262c49edffc9025.jpg","title":"嫩滑Q弹 经典卤制","subtitle":"【2袋装】卤香味鸡蛋干200g/袋","price":"19.9 ","delPrice":"¥47.60"}
+			]
 		}
 	}
 }

@@ -25,17 +25,17 @@ export default{
 			msg:'daily',
 			"headerList":[
 				{
-					"imgPath":"../../../img/3438afe88e7e047b62b2c2b79b7885f1.png",
+					"imgPath":"img/3438afe88e7e047b62b2c2b79b7885f1.png",
 					"title":"日常",
 					"templatePath":"daily"
 				},
 				{
-					"imgPath":"../../../img/9bd174029791f8162cc4cec53cec8951.png",
+					"imgPath":"img/9bd174029791f8162cc4cec53cec8951.png",
 					"title":"帮你挑",
 					"templatePath":"selects"
 				},
 				{
-					"imgPath":"../../../img/866ff5f51c7c2c214984432b94fe122c.png",
+					"imgPath":"img/866ff5f51c7c2c214984432b94fe122c.png",
 					"title":"涨姿势",
 					"templatePath":"post"
 				}
